@@ -5,6 +5,6 @@ As Kanye West said:
 > the present is our past.
 
 Kanye has done:
-* Stuff
-* More Stuff
-* A couple more things
+* *Stuff*
+* **More Stuff**
+* *__A couple more things__*
