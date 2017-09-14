@@ -4,7 +4,7 @@ As Kanye West said:
 > We're living the future so
 > the present is our past.
 
-Format: ![kanye](Kanye_West.jpg)
+![kanye](Kanye-West.jpg)
 
 ## Kanye has done:
 * *Stuff*
